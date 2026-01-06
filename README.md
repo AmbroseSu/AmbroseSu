@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Ambrose Su
+# Hi there 👋 I'm Ha Cong Hieu
 
 .NET Backend Developer | Java Backend Developer  
 Building scalable APIs & clean backend systems
@@ -37,7 +37,7 @@ Building scalable APIs & clean backend systems
 - **GarageStockBE**  
   ASP.NET Core, EF Core, SQL Server
 
-- **Fresher Academy Management System (FAMS) — FPT Software (Intern)**  
+- **Fresher Academy Management System (FAMS)**  
   Java Spring Boot, Spring Security, Spring Data JPA, JWT, PostgreSQL, Docker
 
 ---
